@@ -1,0 +1,44 @@
+img {
+    height: 350px;
+    text-align: center;
+    border: 10px solid black;
+   box-shadow:20px 20px 50px -10px
+}
+
+
+
+
+body {
+    color: black;
+    margin: 0;
+    background-color: lightgray;
+    text-align: center;
+    border: 10px solid black
+}
+
+div {
+   height: 105px;
+   background-color: gray; 
+   margin: 0;
+}
+
+header {
+    font-size: 45pt;
+    text-align: center;
+    text-shadow: 1cm;
+}
+
+button {
+    border-radius: 15px;
+    
+}
+
+
+h1 {
+    font-size: 25pt;
+    text-align: center;
+}
+p {
+    font-size: 25pt;
+    text-align: center;
+}
